@@ -9,5 +9,4 @@ Classic game that never goes out of style.
 ◾ For each move, the screen reloads to render the board. <br>
 ◾ Thanks for playing this game.<br>
 <br>
-    Have fun!
-
+&nbsp;&nbsp;&nbsp;&nbsp;⚪ Have fun! ❌
