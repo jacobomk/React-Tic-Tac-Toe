@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# React-Tic-Tac-Toe
 Classic game that never goes out of style.
 
 # instructions
