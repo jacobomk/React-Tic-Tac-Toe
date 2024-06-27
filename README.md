@@ -10,5 +10,5 @@ Classic game that never goes out of style.
 ◾ Thanks for playing this game.<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;⚪ Have fun! ❌
-<br>
+<br><br>
 ![Captura](https://github.com/jacobomk/Tic-Tac-Toe/assets/118301551/3e0e22ae-f1cc-4827-a10f-5990e5f546c6)
