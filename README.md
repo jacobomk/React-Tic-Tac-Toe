@@ -2,9 +2,11 @@
 Classic game that never goes out of style.
 
 # instructions
-::marker Eres el jugador 'X' y el jugador 'O' es la persona que esta a tu lado y desea jugar contigo.
-Presione cualquier casilla vacía para comenzar el juego, siempre comienza el jugado 'X'.
-Presione el botón "Reset del juego" para limpiar el tableero
-Por cada movimiento, la pantalla se recarga para renderizar el tablero. 
-Divertiros!
+◾ You are player 'X' and player 'O' is the person next to you who wants to play with you.
+◾ Press any empty square to start the game, the player 'X' always starts.
+◾ Press the "Game Reset" button to clear the board
+◾ For each move, the screen reloads to render the board. 
+◾ thanks for playing this game.
+
+    Have fun!
 
